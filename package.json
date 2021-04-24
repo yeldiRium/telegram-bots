@@ -63,7 +63,7 @@
     "parse-strings-in-object": "2.0.0",
     "ramda": "0.27.1",
     "rc": "1.2.8",
-    "redux": "4.0.5",
+    "redux": "4.1.0",
     "reselect": "4.0.0",
     "telegraf": "3.38.0"
   },
