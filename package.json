@@ -65,7 +65,7 @@
     "rc": "1.2.8",
     "redux": "4.0.5",
     "reselect": "4.0.0",
-    "telegraf": "3.38.0"
+    "telegraf": "4.4.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "5.0.1",
