@@ -929,7 +929,12 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.1.tgz#283f669ff76d7b8260df8ab7a4262cc83d988256"
   integrity sha512-fZQQafSREFyuZcdWFAExYjBiCL7AUCdgsk80iO0q4yihYYdcIiH28CcuPTGFgLOCC8RlW49GSQxdHwZP+I7CNg==
 
-"@types/node@*", "@types/node@14.14.31", "@types/node@>= 8":
+"@types/node@*", "@types/node@16.3.3", "@types/node@>= 8":
+  version "16.3.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.3.3.tgz#0c30adff37bbbc7a50eb9b58fae2a504d0d88038"
+  integrity sha512-8h7k1YgQKxKXWckzFCMfsIwn0Y61UK6tlD6y2lOb3hTOIMlK3t9/QwHOhc81TwU+RMf0As5fj7NPjroERCnejQ==
+
+"@types/node@14.14.31":
   version "14.14.31"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.31.tgz#72286bd33d137aa0d152d47ec7c1762563d34055"
   integrity sha512-vFHy/ezP5qI0rFgJ7aQnjDXwAMrG0KqqIH7tQG5PPv3BWBayOPIQNBjVc/P6hhdZfMx51REc6tfDNXHUio893g==
@@ -5508,12 +5513,12 @@ node-notifier@^8.0.0:
     uuid "^8.3.0"
     which "^2.0.2"
 
-nodeenv@3.0.45:
-  version "3.0.45"
-  resolved "https://registry.yarnpkg.com/nodeenv/-/nodeenv-3.0.45.tgz#20c99366c1367b36125f0c525f878d2fe27d5838"
-  integrity sha512-WO2uUv45S924vbCs7BK+MzRHx5QW/BcS1ng1ZvUFNZSq06sW7UTNLBY9X8zlUL6X71iTXBsqPMiWN39tlEDaIg==
+nodeenv@3.0.66:
+  version "3.0.66"
+  resolved "https://registry.yarnpkg.com/nodeenv/-/nodeenv-3.0.66.tgz#06c584c914a4f8b28b863aff99f3d77602fadfb9"
+  integrity sha512-GD2qMmdSTOFhW1NvG1o6my8zIsfG4WtZ92r7g/uP5ws5hoqw8Ngk8ArWiGAA7OPOqkYDQTTUGnI8Yg/U1M7p1g==
   dependencies:
-    "@types/node" "14.14.31"
+    "@types/node" "16.3.3"
 
 nodemon@2.0.7:
   version "2.0.7"
